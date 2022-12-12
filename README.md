@@ -20,6 +20,9 @@ You may also see any lint errors in the console.
 
 ![plot](./images/todoimg.png)
 
+## Deployed App
+[inline-style link](https://zingy-begonia-e4a411.netlify.app/ "Todo List App")    
+
 ## Demo
 https://user-images.githubusercontent.com/61749076/202915111-a462921c-5d4a-4bbf-ae80-3c0e93b721ad.mp4
 
