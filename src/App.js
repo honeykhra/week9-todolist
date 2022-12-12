@@ -25,7 +25,13 @@ const App = () => {
         editTodos={editTodos}
         setEditTodos={setEditTodos}
       />
-      <TodoList todos={todos} setTodos={setTodos} setEditTodos={setEditTodos} />
+      <div className="todo-cont">
+        <TodoList
+          todos={todos}
+          setTodos={setTodos}
+          setEditTodos={setEditTodos}
+        />
+      </div>
     </div>
   );
 };
